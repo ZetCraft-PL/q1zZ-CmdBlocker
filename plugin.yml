@@ -1,0 +1,8 @@
+name: q1zZ-CommandBlocker
+main: pl.q1zz.Main
+version: 0.1
+author: q1zZ
+website: https://github.com/q1zZu
+commands:
+  q1zzreload:
+    aliases: [commandblocker, cmreload, qcmreload, qcm]

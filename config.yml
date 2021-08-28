@@ -1,0 +1,14 @@
+# Donation link: https://zetcraft.pl
+settings:
+  reload-permission: "q1zz.reload"
+  bypass-permission: "q1zz.bypass"
+commands:
+  - plugins
+  - pl
+  - version
+  - ver
+  - about
+  - minecraft:help
+messages:
+  deny-message: "&cYou don't have permission to use&7 %command%!"
+  noreload-permission: "&cYou don't have permission to use this command!"
